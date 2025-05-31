@@ -2,6 +2,12 @@
 
 # TerraFarm - Machines Addon
 
+Monk's Added Machines
+
+WIP Fork of main mod [Terrafarm Machines](https://github.com/scfmod/FS25_TerraFarmMachines) 
+
+All credit to the orignal creator.
+
 This mod adds support for 3rd. party equipment.
 
 Feel free to use this as base for your own configuration mod.
@@ -10,7 +16,6 @@ Feel free to use this as base for your own configuration mod.
 
 ## How to download and install
 
-Download the latest [```FS25_0_TerraFarmMachines.zip```](https://github.com/scfmod/FS25_TerraFarmMachines/releases/latest/download/FS25_0_TerraFarmMachines.zip) and copy/move it into your FS25 mods folder.
 
 ## List of supported equipment
 
