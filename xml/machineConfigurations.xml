@@ -154,4 +154,13 @@
     <configuration
         vehicle="FS25_gjerstadPack/xml/bucket4.xml"
         file="xml/gjerstadPack/bucket4.xml" />
+
+    <configuration
+        vehicle="FSM_Komatsu_575D_FS25/575D.xml"
+        file="xml/misc/FSM_Komatsu_575D_FS.xml" />   
+        
+    <configuration
+        vehicle="FSM_CAT_6015B_FS25/6015.xml"
+        file="xml/misc/FSM_CAT_6015B_FS25.xml" />      
+        
 </configurations>
