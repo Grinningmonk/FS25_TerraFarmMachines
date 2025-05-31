@@ -17,4 +17,6 @@ FS25_JCB_Hydradig
 FS25_JD135c
 FS25_T_130
 FS25_volvoPack
+FSM Komatsu 575D
+FSM CAT 6015B
 ```
