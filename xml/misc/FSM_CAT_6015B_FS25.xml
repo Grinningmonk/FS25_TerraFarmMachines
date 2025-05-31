@@ -1,0 +1,6 @@
+<vehicle>
+    ...
+    <machine type="excavatorShovel">
+        <input modes="FLATTEN SMOOTH LOWER PAINT" />
+    </machine>
+</vehicle>
