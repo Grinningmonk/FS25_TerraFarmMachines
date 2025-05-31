@@ -40,6 +40,8 @@ JD135C
 JohnDeere 650K
 Gjerstad Pack
 T-130
+FSM Komatsu 575D
+FSM CAT 6015B
 ```
 
 Read the full mod list [here](./MODS.md).
