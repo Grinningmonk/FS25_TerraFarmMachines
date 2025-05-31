@@ -1,6 +1,6 @@
 ![Header](./assets/header.webp)
 
-# TerraFarm - Machines Addon
+# TerraFarm - Machines Addon - Monk's Additions
 
 Monk's Added Machines
 
