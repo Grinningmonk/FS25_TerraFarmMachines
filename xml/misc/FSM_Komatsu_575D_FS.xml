@@ -2,6 +2,7 @@
 <vehicle>
     <machine type="leveler">
         <input modes="FLATTEN SMOOTH PAINT" />
+        <!-- Offset is not good, was copy/paste. Refining in process-->
         <workArea offset="0 -0.2 1" />
     </machine>
 </vehicle>
