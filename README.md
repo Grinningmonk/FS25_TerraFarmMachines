@@ -45,7 +45,7 @@ JD135C
 JohnDeere 650K
 Gjerstad Pack
 T-130
-FSM Komatsu 575D
+FSM Komatsu 575D *NB: It works but the offset needs adjusting. Use with cuation*
 FSM CAT 6015B
 ```
 
